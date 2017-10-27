@@ -1,4 +1,5 @@
 // write your code below!
 var name = "Joe"
 var height = 74
-console.log(message)
+var message = '${name} is $ {height} inches tall'
+console.log (message)
